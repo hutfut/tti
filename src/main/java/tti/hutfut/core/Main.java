@@ -1,5 +1,4 @@
 package tti.hutfut.core;
-
 /* 
  * Main class to launch embedded Jetty server
  * 
